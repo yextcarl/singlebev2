@@ -1,0 +1,17 @@
+{
+  "$id": "buffalobevs_14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_type": "Pinot Noir",
+    "buffalobevs_vineyard": "Cakebread Cellars",
+    "buffalobevs_vintage": "2018",
+    "yext/color": "Dark Red",
+    "yext/description": "Flavors of lush black cherry, raspberry and blackberry, fine-grained tannins, notes of spice, and a flinty vein of minerality.",
+    "yext/name": "NEW WINE",
+    "yext/priceRange": "THREE"
+  },
+  "entityType": "buffalobevs_Wine",
+  "folder": "yext/root",
+  "labels": []
+}
